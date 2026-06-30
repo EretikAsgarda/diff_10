@@ -21,6 +21,7 @@ public class main {
             }
         }
 
+
         // Среднее значение может быть дробным, поэтому используем double
         double average = (double) sum / inputArray1.length;
 
@@ -47,6 +48,7 @@ public class main {
             }
         }
         System.out.println("]");
+
 
 
 
