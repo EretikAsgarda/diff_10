@@ -66,7 +66,6 @@ public class main {
             }
         }
         System.out.println("]");
-
         // Вывод outputArray2
         System.out.print("outputArray2: [");
         for (int i = 0; i < outputArray2.length; i++) {
