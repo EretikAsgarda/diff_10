@@ -1,5 +1,5 @@
 public class main {
-    public static void main(String[] args) {
+    public static void main (String[] args) {
          //____________________________________Задача 1
         // Входной массив: выплаты авторам контента (5 элементов)
         int[] inputArray1 = {15000, 8000, 22000, 12000, 30000};
