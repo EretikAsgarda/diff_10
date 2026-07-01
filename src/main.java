@@ -89,7 +89,6 @@ public class main {
             index3++;
         }
 
-
         // Вывод inputArray3
         System.out.print("inputArray3: [");
         for (int i = 0; i < inputArray3.length; i++) {
